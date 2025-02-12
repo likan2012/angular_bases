@@ -18,7 +18,7 @@ import { HerosModule } from './heroes/heros.module';
     CounterModule,
     HerosModule,
   ],
-  providers: [], 
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
